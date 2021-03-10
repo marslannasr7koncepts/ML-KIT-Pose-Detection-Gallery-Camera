@@ -1,4 +1,4 @@
-# flutter_mlkitposedetection_api
+# Flutter ML KIT Pose Detection API
 
 A new Flutter application.
 
